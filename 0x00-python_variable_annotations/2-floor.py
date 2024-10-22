@@ -3,5 +3,5 @@
 which takes a float n as argument"""
 
 
-def floor(n: float) -> int:
+def floor(n: float) -> float:
     return int(n)
