@@ -5,4 +5,5 @@ returns their sum as foat."""
 
 
 def add(a: float, b: float) -> float:
+    """return sum as float"""
     return (a + b)
