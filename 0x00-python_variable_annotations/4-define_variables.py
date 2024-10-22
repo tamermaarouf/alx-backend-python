@@ -2,7 +2,11 @@
 """Define and annotate the following variables with the specified values:"""
 
 
-a: int = 1                                  """integer with a value of 1"""
-pi: float = 3.14                            """float with a value of 3.14"""
-i_understand_annotations: bool = True       """boolean with a value of True"""
-school: str = 'Holberton'                   """string with a value """
+"""integer with a value of 1"""
+a: int = 1
+"""float with a value of 3.14"""
+pi: float = 3.14
+"""boolean with a value of True"""
+i_understand_annotations: bool = True
+"""string with a value """
+school: str = 'Holberton'
