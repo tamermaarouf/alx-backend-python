@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-"""Write a type-annotated function add
-dfsfdsfdfsdfdfdsfdfdfsfdsloat a, b as arguments
-returns their sum as a flfdsfdsfdsdfdfds
-asfdsdsfdsfdsfsfdsfoat."""
+"""function add
+float a, b as arguments
+returns their sum as foat."""
 
 
 def add(a: float, b: float) -> float:
